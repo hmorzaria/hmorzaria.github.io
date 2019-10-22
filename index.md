@@ -1,8 +1,8 @@
 My main interests are translating modeling approaches for management and conservation of coastal and marine resources and assessing how anthropogenic impacts influence planning and conservation decisions; my current focus is on the impacts of climate change and cumulative human impacts.
 
 Researcher
-CEDO Intercultural cedo.org
-Long Live the Kings lltk.org
+* CEDO Intercultural cedo.org
+* Long Live the Kings lltk.org
 
 https://www.linkedin.com/in/hem-nalini-morzaria-luna/
 
