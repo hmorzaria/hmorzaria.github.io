@@ -64,6 +64,8 @@ Zedler, J. B., **H. Morzaria-Luna**, and K. Ward. 2003. The challenge of restori
 
 ## Book chapters
 
+Cruz Piñón, G., López-Fuerte F.O. & Morzaria-Luna H. In Press. Estado del arte de las investigaciones sobre los manglares en Baja California Sur.  Ecología y Conservación en los Mares de México. H. Reyes-Bonilla (Ed.)
+
 Reyes Bonilla, H., Auliz Ortiz, D., Cruz- Piñón, G. Domínguez Boza, J., Herrero Perezrul, Ma.D., López Pérez, A. Martínez castillo, V., **Morzaria-Luna, H**. Paz García, D.A., Rodríguez Villalobos, J.C. Aranceta garza, F. Cruz, P. y Balart E.F. In Press. Los Corales Escleratinios de la Bahia de La Paz. Cruz Piñón, A. Romero (Eds.). En: La Bahía de La Paz: Biodiversidad, procesos ecológicos y sociales. Universidad Autónoma de Baja California Sur.
 
 Turk-Boyer, P. J., **H. Morzaria-Luna**, I. Martínez, C. A. Downton-Hoffman, and A. Munguia-Vega. 2014a. Ecosystem-based Fisheries Management of a Biological Corridor along Northern Sonora Coastline. Pages 155–180 in F. Amezcua and B. Bellgraph, editors. Fisheries Management of Mexican and Central American Estuaries. Springer Verlag.
