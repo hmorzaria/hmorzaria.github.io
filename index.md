@@ -16,9 +16,11 @@ View at [Google scholar](https://scholar.google.com/citations?user=CdVwjyUAAAAJ&
 
 ## Journal articles
 
-Gruss, A., Thorson, J., Carroll, G., Ng, E., Holsman, K., Aydin, K., Kotwicki, S., **Morzaria-Luna**, H., Ainsworth, C., and Thompson, K. In review. Spatio-temporal analyses of marine predator diets from data-rich and data-limited systems. Fish and Fisheries
-
 Kaplan, I.C.K., C. Hansen Eide, **H. Morzaria-Luna**, R. Girardin, K.N. Marshall. In review. Ecosystem-Based Harvest Control Rules for Norwegian and US Ecosystems. 
+
+Morzaria-Luna, H., P. Turk-Boyer, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J. Alfredo Arreola-Lizárraga, I. G. Amador-Castro, A.N. Suárez Castillo, A. Munguia-Vega. Coastal and Marine Spatial Planning in the Northern Gulf of California, Mexico: Consolidating Stewardship, Property Rights, and Enforcement for Ecosystem-Based Fisheries Management. Ocean and Coastal Management
+
+Gruss, A., Thorson, J., Carroll, G., Ng, E., Holsman, K., Aydin, K., Kotwicki, S., Morzaria-Luna, H., Ainsworth, C., and Thompson, K. 2020. Spatio-temporal analyses of marine predator diets from data-rich and data-limited systems. Fish and Fisheries. https://doi.org/10.1111/faf.12457
 
 Petatán-Ramírez, D., M.Á. Ojeda-Ruiz, L. Sánchez-Velasco, C. Salvadeo, D. Rivas, H. Reyes-Bonilla, G. Cruz-Piñón, **H. Morzaria-Luna**, A.M. Cisneros-Montemayor and W. Cheung. 2019. Potential changes in the distribution of suitable habitat for Pacific sardine (Sardinops sagax) under climate change scenarios. Deep Sea Research Part II. Topical Studies in Oceanography. https://doi.org/10.1016/j.dsr2.2019.07.020
 
