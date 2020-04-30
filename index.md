@@ -13,12 +13,10 @@ My main interests are translating modeling approaches for management and conserv
 * Coastal ecology
 
 # Professional Preparation 
-
-Universidad Autónoma de Baja California Sur, La Paz, México, Marine Biology, BS 1997
-University of Wisconsin-Madison, Botany (major) & Limnology and Marine Science (minor), PhD 2005.	
+* University of Wisconsin-Madison, Botany (major) & Limnology and Marine Science (minor), PhD 2005.	
+* Universidad Autónoma de Baja California Sur, La Paz, México, Marine Biology, BS 1997
 
 # Appointments
-
 * 2011 – to date. Lead researcher. CEDO Intercultural.
 * 2017 – to date. Atlantis Ecosystem Modeller. Long Live the Kings.
 * 2010-2011. Research fisheries scientist I. Marine Resources Assessment Group Americas Inc.
@@ -31,7 +29,6 @@ University of Wisconsin-Madison, Botany (major) & Limnology and Marine Science (
 View at [Google scholar](https://scholar.google.com/citations?user=CdVwjyUAAAAJ&hl=en&oi=sra)
 
 ## Journal articles
-
 Kaplan, I.C.K., C. Hansen Eide, **H. Morzaria-Luna**, R. Girardin, K.N. Marshall. In review. Ecosystem-Based Harvest Control Rules for Norwegian and US Ecosystems. 
 
 **Morzaria-Luna, H.**, P. Turk-Boyer, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J. Alfredo Arreola-Lizárraga, I. G. Amador-Castro, A.N. Suárez Castillo, A. Munguia-Vega. Coastal and Marine Spatial Planning in the Northern Gulf of California, Mexico: Consolidating Stewardship, Property Rights, and Enforcement for Ecosystem-Based Fisheries Management. Ocean and Coastal Management
