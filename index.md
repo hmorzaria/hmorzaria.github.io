@@ -2,6 +2,7 @@ My main interests are translating modeling approaches for management and conserv
 
 * CEDO Intercultural cedo.org
 * Long Live the Kings lltk.org
+* Visiting Scientist at the Nortwest Fisheries Science Center, NOAA
 
 https://www.linkedin.com/in/hem-nalini-morzaria-luna/
 
