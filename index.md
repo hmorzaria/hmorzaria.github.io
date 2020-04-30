@@ -11,6 +11,21 @@ https://www.linkedin.com/in/hem-nalini-morzaria-luna/
 * Climate Change
 * Coastal ecology
 
+# Professional Preparation 
+
+Universidad Autónoma de Baja California Sur, La Paz, México, Marine Biology, BS 1997
+University of Wisconsin-Madison, Botany (major) & Limnology and Marine Science (minor), PhD 2005.	
+
+# Appointments
+
+2011 – to date. Lead researcher. CEDO Intercultural.
+2017 – to date. Atlantis Ecosystem Modeller. Long Live the Kings.
+2010-2011. Research fisheries scientist I. Marine Resources Assessment Group Americas Inc.
+2009-2010. Research fisheries scientist I. Frank Orth & Associates. 
+2004-2009. Wetland researcher. CEDO Intercultural. 
+2000-2003. Trainee “Human Dimensions of Social and Aquatic System Interactions” NSF Integrative Graduate Research Education and Training program (IGERT). University of Wisconsin-Madison.
+1999-2005 Graduate fellow. Consejo Nacional de Ciencia y Tecnología (CONACyT)
+
 # Publications
 View at [Google scholar](https://scholar.google.com/citations?user=CdVwjyUAAAAJ&hl=en&oi=sra)
 
@@ -18,9 +33,9 @@ View at [Google scholar](https://scholar.google.com/citations?user=CdVwjyUAAAAJ&
 
 Kaplan, I.C.K., C. Hansen Eide, **H. Morzaria-Luna**, R. Girardin, K.N. Marshall. In review. Ecosystem-Based Harvest Control Rules for Norwegian and US Ecosystems. 
 
-Morzaria-Luna, H., P. Turk-Boyer, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J. Alfredo Arreola-Lizárraga, I. G. Amador-Castro, A.N. Suárez Castillo, A. Munguia-Vega. Coastal and Marine Spatial Planning in the Northern Gulf of California, Mexico: Consolidating Stewardship, Property Rights, and Enforcement for Ecosystem-Based Fisheries Management. Ocean and Coastal Management
+**Morzaria-Luna, H.**, P. Turk-Boyer, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J. Alfredo Arreola-Lizárraga, I. G. Amador-Castro, A.N. Suárez Castillo, A. Munguia-Vega. Coastal and Marine Spatial Planning in the Northern Gulf of California, Mexico: Consolidating Stewardship, Property Rights, and Enforcement for Ecosystem-Based Fisheries Management. Ocean and Coastal Management
 
-Gruss, A., Thorson, J., Carroll, G., Ng, E., Holsman, K., Aydin, K., Kotwicki, S., Morzaria-Luna, H., Ainsworth, C., and Thompson, K. 2020. Spatio-temporal analyses of marine predator diets from data-rich and data-limited systems. Fish and Fisheries. https://doi.org/10.1111/faf.12457
+Gruss, A., Thorson, J., Carroll, G., Ng, E., Holsman, K., Aydin, K., Kotwicki, S., **Morzaria-Luna, H.**, Ainsworth, C., and Thompson, K. 2020. Spatio-temporal analyses of marine predator diets from data-rich and data-limited systems. Fish and Fisheries. https://doi.org/10.1111/faf.12457
 
 Petatán-Ramírez, D., M.Á. Ojeda-Ruiz, L. Sánchez-Velasco, C. Salvadeo, D. Rivas, H. Reyes-Bonilla, G. Cruz-Piñón, **H. Morzaria-Luna**, A.M. Cisneros-Montemayor and W. Cheung. 2019. Potential changes in the distribution of suitable habitat for Pacific sardine (Sardinops sagax) under climate change scenarios. Deep Sea Research Part II. Topical Studies in Oceanography. https://doi.org/10.1016/j.dsr2.2019.07.020
 
@@ -66,13 +81,13 @@ Zedler, J. B., **H. Morzaria-Luna**, and K. Ward. 2003. The challenge of restori
 
 ## Book chapters
 
-Cruz Piñón, G., López-Fuerte F.O. & Morzaria-Luna H. In Press. Estado del arte de las investigaciones sobre los manglares en Baja California Sur.  Ecología y Conservación en los Mares de México. H. Reyes-Bonilla (Ed.)
+Cruz Piñón, G., López-Fuerte F.O. & **Morzaria-Luna H.** In Press. Estado del arte de las investigaciones sobre los manglares en Baja California Sur.  Ecología y Conservación en los Mares de México. H. Reyes-Bonilla (Ed.)
 
 Reyes Bonilla, H., Auliz Ortiz, D., Cruz- Piñón, G. Domínguez Boza, J., Herrero Perezrul, Ma.D., López Pérez, A. Martínez castillo, V., **Morzaria-Luna, H**. Paz García, D.A., Rodríguez Villalobos, J.C. Aranceta garza, F. Cruz, P. y Balart E.F. In Press. Los Corales Escleratinios de la Bahia de La Paz. Cruz Piñón, A. Romero (Eds.). En: La Bahía de La Paz: Biodiversidad, procesos ecológicos y sociales. Universidad Autónoma de Baja California Sur.
 
 Turk-Boyer, P. J., **H. Morzaria-Luna**, I. Martínez, C. A. Downton-Hoffman, and A. Munguia-Vega. 2014a. Ecosystem-based Fisheries Management of a Biological Corridor along Northern Sonora Coastline. Pages 155–180 in F. Amezcua and B. Bellgraph, editors. Fisheries Management of Mexican and Central American Estuaries. Springer Verlag.
 
-Turk-Boyer, P. J., H. Peña-Bonilla, **H. N. Morzaria-Luna**, P. Valdivia-Jiménez, H. Tovar-Vázquez, and A. Castillo-López. 2014b. Wetland conservation in Northern Sonora, Mexico: Legal tools and active communities. Pages 181–204 Fisheries Management of Mexican and Central American Estuaries. Springer.
+Turk-Boyer, P. J., H. Peña-Bonilla, **H.N. Morzaria-Luna**, P. Valdivia-Jiménez, H. Tovar-Vázquez, and A. Castillo-López. 2014b. Wetland conservation in Northern Sonora, Mexico: Legal tools and active communities. Pages 181–204 Fisheries Management of Mexican and Central American Estuaries. Springer.
 
 **Morzaria-Luna, H.**, A. Iris-Maldonado, and P. Valdivia-Jiménez. 2010. Physico-chemical characteristics of negative estuaries in the Northern Gulf of California, Mexico. Pages 201–223 in J. R. Crane and A. E. Solomon, editors.
 
