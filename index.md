@@ -1,6 +1,5 @@
 My main interests are translating modeling approaches for management and conservation of coastal and marine resources and assessing how anthropogenic impacts influence planning and conservation decisions; my current focus is on the impacts of climate change and cumulative human impacts.
 
-Researcher
 * CEDO Intercultural cedo.org
 * Long Live the Kings lltk.org
 
@@ -18,13 +17,13 @@ University of Wisconsin-Madison, Botany (major) & Limnology and Marine Science (
 
 # Appointments
 
-2011 – to date. Lead researcher. CEDO Intercultural.
-2017 – to date. Atlantis Ecosystem Modeller. Long Live the Kings.
-2010-2011. Research fisheries scientist I. Marine Resources Assessment Group Americas Inc.
-2009-2010. Research fisheries scientist I. Frank Orth & Associates. 
-2004-2009. Wetland researcher. CEDO Intercultural. 
-2000-2003. Trainee “Human Dimensions of Social and Aquatic System Interactions” NSF Integrative Graduate Research Education and Training program (IGERT). University of Wisconsin-Madison.
-1999-2005 Graduate fellow. Consejo Nacional de Ciencia y Tecnología (CONACyT)
+* 2011 – to date. Lead researcher. CEDO Intercultural.
+* 2017 – to date. Atlantis Ecosystem Modeller. Long Live the Kings.
+* 2010-2011. Research fisheries scientist I. Marine Resources Assessment Group Americas Inc.
+* 2009-2010. Research fisheries scientist I. Frank Orth & Associates. 
+* 2004-2009. Wetland researcher. CEDO Intercultural. 
+* 2000-2003. Trainee “Human Dimensions of Social and Aquatic System Interactions” NSF Integrative Graduate Research Education and Training program (IGERT). University of Wisconsin-Madison.
+* 1999-2005 Graduate fellow. Consejo Nacional de Ciencia y Tecnología (CONACyT)
 
 # Publications
 View at [Google scholar](https://scholar.google.com/citations?user=CdVwjyUAAAAJ&hl=en&oi=sra)
