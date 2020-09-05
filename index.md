@@ -68,15 +68,20 @@ Ainsworth, C. H., **H. Morzaria-Luna**, I. C. Kaplan, P. S. Levin, E. A. Fulton,
 
 Ainsworth, C. H., **H. Morzaria-Luna**, I. C. Kaplan, P. S. Levin, and E. A. Fulton. 2012. Full compliance with harvest regulations yields ecological benefits: Northern Gulf of California case study. Journal of Applied Ecology 49:63–72.
 
+Ibarra-Obando, S.E., M. Poumian-Tapia, & **H. Morzaria-Luna**. 2010. Long term effects of tidal exclusion on salt marsh plain species at Estero de Punta Banda, Baja California. Estuaries & Coasts. DOI 10.1007/s12237-009-9253-x  Volume 33, Issue 3, pp 753-768
+
 **Morzaria-Luna, H. N.**, and J. B. Zedler. 2007. Does seed availability limit plant establishment during salt marsh restoration? Estuaries and Coasts 30:12–25.
-
-**Morzaria-Luna, H.**, J. C. Callaway, G. Sullivan, and J. B. Zedler. 2004. Relationship between topographic heterogeneity and vegetation patterns in a Californian salt marsh. Journal of Vegetation Science 15:523–530.
-
-**Morzaria-Luna, H. N.**, K. S. Schaepe, L. B. Cutforth, and R. L. Veltman. 2004. Implementation of bioretention systems: A Wisconsin case study. Journal of the American Water Resources Association 40:1053–1061.
 
 Forshay, K. J., **H. N. Morzaria-Luna**, B. Hale, and K. Predick. 2005. Landowner satisfaction with the wetlands reserve program in Wisconsin. Environmental Management 36:248–257.
 
-Zedler, J. B., **H. Morzaria-Luna**, and K. Ward. 2003. The challenge of restoring vegetation on tidal, hypersaline substrates. Plant & Soil 253:259–273.
+**Morzaria-Luna, H.**, J. C. Callaway, G. Sullivan, & J. B. Zedler. 2004. Relationship between topographic heterogeneity and vegetation patterns in a Californian salt marsh. Journal of Vegetation Science 15:523–530.
+
+**Morzaria-Luna, H. N.**, K. S. Schaepe, L. B. Cutforth, & R. L. Veltman. 2004. Implementation of bioretention systems: A Wisconsin case study. Journal of the American Water Resources Association 40:1053–1061.
+
+Zedler, J. B., **H. Morzaria-Luna**, & K. Ward. 2003. The challenge of restoring vegetation on tidal, hypersaline substrates. Plant & Soil 253:259–273.
+
+Siqueiros-Beltrones, D.A. & **H. Morzaria-Luna**. 1999. New records of marine benthic diatom species for the Northwestern Mexican region. Oceánides 14(2):89-95
+
 
 ## Book chapters
 
@@ -90,9 +95,10 @@ Turk-Boyer, P. J., H. Peña-Bonilla, **H.N. Morzaria-Luna**, P. Valdivia-Jiméne
 
 **Morzaria-Luna, H.**, A. Iris-Maldonado, and P. Valdivia-Jiménez. 2010. Physico-chemical characteristics of negative estuaries in the Northern Gulf of California, Mexico. Pages 201–223 in J. R. Crane and A. E. Solomon, editors.
 
-Danemann, G. H., **H. Morzaria-Luna**, S. Barocio, H. Batche, B. Casillas, J. Castillo, A. Gonzalez, and S. Muñoz. 2005. Inventario de los Humedales del Corredor Costero La Asamblea-San Francisquito, Baja California. G. D. Danemann and E. Ezcurra, editors. Pronatura Noroeste AC, Secretaría de Medio Ambiente y Recursos Naturales. Instituto Nacional de Ecología. San Diego Natural History Museum, Ensenada, Baja California, México.
+**H. Morzaria-Luna** & Danemann, G.D. 2008. Humedales. In: Danemann, G.D. &  E. Ezcurra (eds.). Bahía de los Ángeles: recursos naturales y comunidad.  Línea base 2007. Tercera Parte: Aspectos Bioecológicos. Pronatura Noroeste, A.C. Secretaria del Medio Ambiente y Recursos Naturales. Instituto Nacional de Ecología. San Diego Natural History Museum.  243-290.
 
-**Morzaria-Luna, H.**, and G. D. Danemann. 2007. Humedales. Pages 243–290 in G. D. Danemann and E. Ezcurra, editors. Pronatura Noroeste AC, Secretaría de Medio Ambiente y Recursos Naturales. Instituto Nacional de Ecología. San Diego Natural History Museum, Ensenada, Baja California, México.
+**H. Morzaria-Luna** & Barocio-León. 2008. Vegetación Terrestre. En: Danemann, G.D. & y E. Ezcurra (eds.). Bahia de los Ángeles: recursos naturales y comunidad. Línea base 2007. Pronatura Noroeste, A.C.  Secretaria del Medio Ambiente y Recursos Naturales. Instituto Nacional de Ecología. San Diego Natural History Museum. 215-242.
+
 
 ### Tech memos and reports
 
