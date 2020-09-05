@@ -30,9 +30,9 @@ View at [Google scholar](https://scholar.google.com/citations?user=CdVwjyUAAAAJ&
 
 ## Journal articles
 
-Kaplan IC, Hansen C, **Morzaria-Luna H**, Girardin R and Marshall KN. 2020 Ecosystem-Based Harvest Control Rules for Norwegian and US Ecosystems. Front. Mar. Sci. 7:652. doi: 10.3389/fmars.2020.00652
+**Morzaria-Luna, H.**, P. Turk-Boyer, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J. Alfredo Arreola-Lizárraga, I. G. Amador-Castro, A.N. Suárez Castillo, A. Munguia-Vega. 2020. Coastal and Marine Spatial Planning in the Northern Gulf of California, Mexico: Consolidating Stewardship, Property Rights, and Enforcement for Ecosystem-Based Fisheries Management. Ocean and Coastal Management. 197:105316. https://doi.org/10.1016/j.ocecoaman.2020.105316
 
-**Morzaria-Luna, H.**, P. Turk-Boyer, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J. Alfredo Arreola-Lizárraga, I. G. Amador-Castro, A.N. Suárez Castillo, A. Munguia-Vega. In press. Coastal and Marine Spatial Planning in the Northern Gulf of California, Mexico: Consolidating Stewardship, Property Rights, and Enforcement for Ecosystem-Based Fisheries Management. Ocean and Coastal Management
+Kaplan IC, Hansen C, **Morzaria-Luna H**, Girardin R and Marshall KN. 2020 Ecosystem-Based Harvest Control Rules for Norwegian and US Ecosystems. Front. Mar. Sci. 7:652. doi: 10.3389/fmars.2020.00652
 
 Gruss, A., Thorson, J., Carroll, G., Ng, E., Holsman, K., Aydin, K., Kotwicki, S., **Morzaria-Luna, H.**, Ainsworth, C., and Thompson, K. 2020. Spatio-temporal analyses of marine predator diets from data-rich and data-limited systems. Fish and Fisheries. https://doi.org/10.1111/faf.12457
 
