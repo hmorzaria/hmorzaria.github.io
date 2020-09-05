@@ -116,6 +116,8 @@ Hornung, M., **H. Morzaria-Luna**, and R. Veltman. 2002. How to build your raing
 
 **Morzaria-Luna, H.** 2009a. Ficha Informativa de los Humedales de Ramsar:  Humedales de Bahía Adair.
 
+**Morzaria-Luna, H.** 2009b. Ficha Informativa de los Humedales de Ramsar:  Humedales de Bahía San Jorge.
+
 **Morzaria-Luna, H.** 2005. Determinants of plant species assemblages in the California marsh plain: Implications for restoration of ecosystem function. Ph.D. Thesis
 
 **Morzaria-Luna, H.**, E. I. Polanco-Mizquez, S. López-Alvirde, and S. Reyes-Fiol. 2007b. Caracterización de la vegetación de los esteros de Bahía Adair, Estero Morúa, y La Salina y predios circundantes. ANEXO. Puerto Peñasco, Sonora.
